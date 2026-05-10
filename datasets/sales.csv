@@ -1,0 +1,16 @@
+SaleID,Region,Amount,Product
+1,North,1200,Laptop
+2,South,500,Phone
+3,West,2200,Tablet
+4,North,900,Mouse
+5,South,1700,Keyboard
+6,West,1300,Monitor
+7,North,2500,Printer
+8,South,300,USB
+9,West,4000,Server
+10,North,1500,SSD
+11,South,2100,RAM
+12,West,800,Camera
+13,North,3200,Router
+14,South,950,Speaker
+15,West,2700,Switch
