@@ -97,8 +97,6 @@ if __name__ == "__main__":
     print(" DISTRIBUTED QUERY EXECUTION ENGINE ")
     print("====================================")
 
-    print("\nType 'exit' to quit program.")
-
     while True:
 
         print("\n------------------------------------")
@@ -107,6 +105,7 @@ if __name__ == "__main__":
         print("2. SELECT * FROM Sales WHERE Amount > 1000")
         print("3. SELECT * FROM Sales WHERE Region='North'")
         print("4. SELECT COUNT(*) FROM Sales")
+        print("\nType 'exit' to quit program.")
         print("------------------------------------")
 
         query = input("\nEnter SQL Query:\n> ")
